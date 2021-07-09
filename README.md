@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pausi</h1>
-<!-- <h3 align="center">Passionate front end and backend developer from Indonesia</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404rgr&label=Profile%20views&color=0e75b6&style=flat" alt="404rgr" /> </p>
 
